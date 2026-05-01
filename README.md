@@ -1,2 +1,2 @@
-# my-first-project
-Learning GitHub from my phone
+# My First Project
+I am learning GitHub using my phone.
